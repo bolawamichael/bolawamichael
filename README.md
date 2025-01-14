@@ -1,5 +1,5 @@
 ## Hi, I'm Michael 
-![Static Badge](https://img.shields.io/badge/Linkedin-white)
+
 
 [Brief Introduction] 
 
