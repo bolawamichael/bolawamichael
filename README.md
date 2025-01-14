@@ -1,10 +1,19 @@
-## Hi there 👋
+## Hi, I'm Michael 
+<a href="https://www.linkedin.com/in/bolawa-michael-344b90238">
 
-<!--
-**bolawamichael/bolawamichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction] 
 
-Here are some ideas to get you started:
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## Objective
 
+
+As an aspiring Cybersecurity Analyst, I am eager to build a strong foundation in the dynamic and fast-paced world of cybersecurity. With a passion for technology and a strong commitment to learning, I am focused on developing the skills necessary to protect organizations from evolving cyber threats. I have gained hands-on experience through training, certifications, and personal projects, and I am excited to apply my knowledge of network security, threat analysis, and incident response in a professional environment. Driven to stay ahead of emerging risks, I am committed to contributing to secure and resilient IT infrastructures while continuing to grow in this field.
+
+## Skills
+
+| Skill                                                                | Associated Project                                                   |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|
+|
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
