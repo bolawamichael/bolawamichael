@@ -1,7 +1,6 @@
 ## Hi, I'm Michael 
 <a href="https://https://www.linkedin.com"><img src="https://img.shields.io/badge/Linkedin-white?style=flat&logo=in&label=in&labelColor=white&link=www.linkedin.com%2Fin%2Fbolawa-michael-344b9023" /></a>
 
-
 [Brief Introduction] 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
