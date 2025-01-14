@@ -1,5 +1,5 @@
 ## Hi, I'm Michael 
-<a href="https://linkedin.com"><img src="https//img.shields.io/badge/LinkedIn-white?style=social&link=www.linkedin.com%2Fin%2Fbolawa-michael-344b9023" /></a>
+<a href="https://https://www.linkedin.com"><img src="https//img.shields.io/badge/LinkedIn-white?style=social&link=www.linkedin.com%2Fin%2Fbolawa-michael-344b9023" /></a>
 
 
 [Brief Introduction] 
