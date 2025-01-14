@@ -1,5 +1,5 @@
 ## Hi, I'm Michael 
-{Linkedin Profile}(https://www.linkedin.com/in/bolawa-michael-344b90238/)
+[Linkedin Profile](https://www.linkedin.com/in/bolawa-michael-344b90238/)
 
 [Brief Introduction] 
 
