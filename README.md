@@ -1,4 +1,5 @@
 ## Hi, I'm Michael 
+![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=social&link=www.linkedin.com%2Fin%2Fbolawa-michael-344b9023)
 
 
 [Brief Introduction] 
